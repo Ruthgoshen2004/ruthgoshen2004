@@ -12,17 +12,17 @@
 
 ## 🔧 Skills and Expertise
 
-**Programming Languages**: Python, Java, C, C#  
-**Web Development**: HTML5, CSS3, JavaScript, Node.js, XML, TypeScript, React, Angular 13/17  
-**Technologies**: React, Angular, .NET Core, Web API, Entity Framework, Apache Kafka  
-**Databases**: SQL Server, MongoDB  
-**Libraries**: Bootstrap, MUI  
-**Development Environments**: VS Code, Visual Studio, PyCharm, IntelliJ IDEA  
-**Operating Systems**: Windows, Linux  
-**Tools**: GitHub, Docker, AWS, Render, Git  
-**Mathematics**: Boolean and linear algebra, differential calculus, statistics, probability, sequences, logic  
-**Additional Courses**: Data Structures, Algorithms, Graphs  
-**Extended Studies**: Operating systems, communication and networks, information systems analysis, digital systems, technical and spoken English
+- **Programming Languages**: Python, Java, C, C#  
+- **Web Development**: HTML5, CSS3, JavaScript, Node.js, XML, TypeScript, React, Angular 13/17  
+- **Technologies**: React, Angular, .NET Core, Web API, Entity Framework, Apache Kafka  
+- **Databases**: SQL Server, MongoDB  
+- **Libraries**: Bootstrap, MUI  
+- **Development Environments**: VS Code, Visual Studio, PyCharm, IntelliJ IDEA  
+- **Operating Systems**: Windows, Linux  
+- **Tools**: GitHub, Docker, AWS, Render, Git  
+- **Mathematics**: Boolean and linear algebra, differential calculus, statistics, probability, sequences, logic  
+- **Additional Courses**: Data Structures, Algorithms, Graphs  
+- **Extended Studies**: Operating systems, communication and networks, information systems analysis, digital systems, technical and spoken English
 
 ---
 
