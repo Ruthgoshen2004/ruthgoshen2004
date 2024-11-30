@@ -29,7 +29,15 @@
 ## 🌐 Languages
 
 - **Hebrew**: Native  
-- **English**: Advanced
+- **English**: Advanced  
+
+---
+
+## 🌐 Education
+
+- **BSc in Computer Science** - University of XYZ  
+- **Additional Courses**: Data Structures, Algorithms, Graphs  
+- **Extended Studies**: Operating systems, communication and networks, information systems analysis, digital systems, technical and spoken English
 
 ---
 
