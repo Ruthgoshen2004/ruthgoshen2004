@@ -47,12 +47,6 @@ In addition, I collaborated with the development team using **GitHub for version
 This practicum provided hands-on experience in browser extension development, modern frontend tools, collaborative development workflows, and solving real-world engineering challenges.
 
 ---
-### DiversiTech Practicum:
-
-Developed a project for managing an educational institution using Java Spring Boot with microservices for the backend and Angular for the frontend, utilizing Agile methodology.  
-Deployed the project on Render.
-
----
 ## 🌐 Languages
 
 - **Hebrew**: Native  
