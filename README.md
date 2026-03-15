@@ -11,14 +11,12 @@
 ---
 
  ## 🛠 Tech Stack
-**Angular | React | Java | C# | Python | Playwright | SQL**
 
 **Backend Development** C#, Java, Node.js 
 
 **Frontend Development**  React, Angular, TypeScript, JavaScript, HTML, CSS
 
-**Database**  ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
-
+**Database**  SQL Server
 
 **Communication Protocols**  REST API  
 
