@@ -22,12 +22,12 @@
 
 **Automation Development**  Python, Playwright, Postman
 
-**Version Control, Task & Test Management**  GitHub, ClickUp, Jira, Zoho, Qase 
+**Version Control, Task & Test Management**  GitHub, ClickUp, Jira, Zoho, Qase stp, std, str
 
-**Test Documentation**  stp,std,str
+**Test Documentation**  STP, STD, STR
+
 דds
 ---
-
 ## 🌐 Languages
 
 - **Hebrew**: Native  
