@@ -6,7 +6,7 @@
 
 📞 **Phone**: +972 55-677-2768  
 📧 **Email**: ruthgoshen6@gmail.com  
-🌐 **GitHub**: [ruthgoshen2004](https://github.com/ruthgoshen2004)
+🌐 **GitHub**: [ruthgoshen2004](https://github.com/ruthgoshen2004)  
 📫 **Contact** [LinkedIn](https://www.linkedin.com/in/yourname)
 
 ---
