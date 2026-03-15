@@ -25,18 +25,12 @@
 
 **Test Documentation**  STP, STD, STR
 
----
-## 🌐 Languages
-
-- **Hebrew**: Native  
-- **English**: Advanced
 
 ---
 
 ## 🌟 About Me
 
 I am a passionate Full Stack Developer with strong problem-solving skills and a deep interest in modern web technologies.
-
 I enjoy building scalable applications, learning new technologies, and developing clean and maintainable code.
 
 
@@ -48,6 +42,12 @@ I enjoy building scalable applications, learning new technologies, and developin
 
 Developed a project for managing an educational institution using Java Spring Boot with microservices for the backend and Angular for the frontend, utilizing Agile methodology.  
 Deployed the project on Render.
+
+---
+## 🌐 Languages
+
+- **Hebrew**: Native  
+- **English**: Advanced
 
 ---
 
