@@ -12,27 +12,20 @@
 
  ## 🛠 Tech Stack
 
+**Backend Development** C#, Java, Node.js 
 
-**Backend Development**  
-C#, Java, Node.js
+**Frontend Development**  React, Angular, TypeScript, JavaScript, HTML, CSS
 
-**Frontend Development**  
-React, Angular, TypeScript, JavaScript, HTML, CSS
+**Database**  SQL Server
 
-**Database**  
-SQL Server
+**Communication Protocols**  REST API  
 
-**Communication Protocols**  
-REST API
+**Automation Development**  Python, Playwright, Postman
 
-**Automation Development**  
-Python, Playwright, Postman
+**Version Control, Task & Test Management**  GitHub, ClickUp, Jira, Zoho, Qase 
 
-**Version Control, Task & Test Management**  
-GitHub, ClickUp, Jira, Zoho, Qase
-
-**Test Documentation**  
-STP, STD, STR
+**Test Documentation**  stp,std,str
+דds
 ---
 
 ## 🌐 Languages
