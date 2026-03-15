@@ -17,7 +17,8 @@
 
 **Frontend Development**  React, Angular, TypeScript, JavaScript, HTML, CSS
 
-**Database**  SQL Server
+**Database**  ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
+
 
 **Communication Protocols**  REST API  
 
