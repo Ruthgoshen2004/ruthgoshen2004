@@ -11,7 +11,7 @@
 ---
 
  ## 🛠 Tech Stack
-
+Angular | React | Java | C# | Python | Playwright | SQL
 **Backend Development** C#, Java, Node.js 
 
 **Frontend Development**  React, Angular, TypeScript, JavaScript, HTML, CSS
