@@ -26,7 +26,6 @@
 
 **Test Documentation**  STP, STD, STR
 
-דds
 ---
 ## 🌐 Languages
 
