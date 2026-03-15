@@ -1,8 +1,6 @@
 # 👋 Hello, I'm Ruth Goshen 🔍
 
 ## 💻 Full Stack Developer  
-## 📍 Israel  
----
 
 📞 **Phone**: +972 55-677-2768  
 📧 **Email**: ruthgoshen6@gmail.com  
