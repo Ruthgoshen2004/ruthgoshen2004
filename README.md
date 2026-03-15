@@ -38,6 +38,15 @@ I enjoy building scalable applications, learning new technologies, and developin
 
 ## 🚀 Practicum & Professional Experience
 
+During my practicum at **ExtraTech**, I worked as a software developer on a real-world project focused on building a Chrome extension for managing users' browsing time and improving productivity. The extension tracks visited websites, records browsing duration, and provides tools for limiting time spent on distracting sites.
+
+Throughout the project I was involved in the full development lifecycle, including research, design, development, testing, and implementation. I developed key features using **JavaScript, HTML, and CSS**, implemented browser event listeners for tracking tab activity, and managed browsing data using local storage.
+
+In addition, I collaborated with the development team using **GitHub for version control**, **ClickUp for task management**, and worked within an **Agile development environment**. I also integrated UI components built with **React and Storybook**, packaged them using **Webpack**, and implemented functionality such as profile sharing with role-based permissions.
+
+This practicum provided hands-on experience in browser extension development, modern frontend tools, collaborative development workflows, and solving real-world engineering challenges.
+
+---
 ### DiversiTech Practicum:
 
 Developed a project for managing an educational institution using Java Spring Boot with microservices for the backend and Angular for the frontend, utilizing Agile methodology.  
